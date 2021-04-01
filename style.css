@@ -13,8 +13,8 @@ main {
 }
 
 .imageDiv {
-    top: 0px;
-    left: 0px;
+    top: auto;
+    left: auto;
     position: relative;
 }
 

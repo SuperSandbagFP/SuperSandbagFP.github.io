@@ -15,7 +15,7 @@ main {
 
 .imageDiv {
     top: 250px;
-    left: 272px;
+    left: 500px;
     position: relative;
 }
 
@@ -28,14 +28,14 @@ main {
 .modButton {
     z-index: 2;
     top: 0px;
-    left:272px;
+    left:392px;
     position: relative;
 }
 .artButton {
     z-index: 3;
-    top: 106px;
+    top: 212px;
     left:0px;
-    position: relative;
+    position: absolute;
 }
 .vrButton {
     z-index: 4;

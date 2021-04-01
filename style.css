@@ -28,14 +28,14 @@ main {
 .modButton {
     z-index: 2;
     top: 0px;
-    left:392px;
+    left:272px;
     position: relative;
 }
 .artButton {
     z-index: 3;
-    top: 212px;
+    top: 106px;
     left:0px;
-    position: absolute;
+    position: relative;
 }
 .vrButton {
     z-index: 4;

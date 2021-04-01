@@ -20,8 +20,8 @@ main {
 
 .linkButton {
     z-index: 1;
-    top: 0px;
-    left:0px;
+    top: 500px;
+    left:392px;
     position: relative;
 }
 .modButton {

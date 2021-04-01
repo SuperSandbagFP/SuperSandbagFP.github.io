@@ -7,27 +7,32 @@ header {
     align-content:center;
 }
 
-main{
-
+main {
+    background-color:#D58EFF;
 }
 
-.linkButton{
-    z-index:1;
-    top:20px;
+.linkButton {
+    z-index: 1;
+    top: 20px;
+    position: relative;
 }
-.modButton{
-    z-index:2;
-    top:20px;
+.modButton {
+    z-index: 2;
+    top: 20px;
+    position: relative;
 }
-.artButton{
-    z-index:3;
-    top:232px;
+.artButton {
+    z-index: 3;
+    top: 232px;
+    position: relative;
 }
-.vrButton{
-    z-index:4;
-    top:232px;
+.vrButton {
+    z-index: 4;
+    top: 232px;
+    position: relative;
 }
-.meImage{
-    z-index:5;
-    top:126px;
+.meImage {
+    z-index: 5;
+    top: 126px;
+    position: relative;
 }

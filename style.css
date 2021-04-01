@@ -5,6 +5,7 @@ body {
 header {
     background-color: #E1C4FF;
     align-content:center;
+    text-align:center;
 }
 
 main {
@@ -14,25 +15,25 @@ main {
 .linkButton {
     z-index: 1;
     top: 20px;
-    position: relative;
+    position: absolute;
 }
 .modButton {
     z-index: 2;
     top: 20px;
-    position: relative;
+    position: absolute;
 }
 .artButton {
     z-index: 3;
     top: 232px;
-    position: relative;
+    position: absolute;
 }
 .vrButton {
     z-index: 4;
     top: 232px;
-    position: relative;
+    position: absolute;
 }
 .meImage {
     z-index: 5;
     top: 126px;
-    position: relative;
+    position: absolute;
 }

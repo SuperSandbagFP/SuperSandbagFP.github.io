@@ -21,31 +21,31 @@ main {
 
 .linkButton {
     z-index: 1;
-    top: 0px;
-    left:0px;
-    position: relative;
+    top: 212px;
+    left: 392px;
+    position: absolute;
 }
 .modButton {
     z-index: 2;
-    top: 0px;
-    left:392px;
+    top: 212px;
+    left: 784px;
     position: absolute;
 }
 .artButton {
     z-index: 3;
-    top: 212px;
-    left:0px;
+    top: 424px;
+    left: 392px;
     position: absolute;
 }
 .vrButton {
     z-index: 4;
-    top: 212px;
-    left:392px;
+    top: 424px;
+    left:784px;
     position: absolute;
 }
 .meImage {
     z-index: 5;
-    top: 106px;
-    left:272px;
+    top: 304px;
+    left: 664px;
     position: absolute;
 }

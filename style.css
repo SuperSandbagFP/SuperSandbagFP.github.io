@@ -14,26 +14,31 @@ main {
 
 .linkButton {
     z-index: 1;
-    top: 20px;
+    top: 0px;
+    left:0px;
     position: absolute;
 }
 .modButton {
     z-index: 2;
-    top: 20px;
+    top: 0px;
+    left:392px;
     position: absolute;
 }
 .artButton {
     z-index: 3;
-    top: 232px;
+    top: 212px;
+    left:0px;
     position: absolute;
 }
 .vrButton {
     z-index: 4;
-    top: 232px;
+    top: 212px;
+    left:392px;
     position: absolute;
 }
 .meImage {
     z-index: 5;
-    top: 126px;
+    top: 106px;
+    left:272px;
     position: absolute;
 }

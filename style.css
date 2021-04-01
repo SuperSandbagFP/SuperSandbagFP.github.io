@@ -14,8 +14,8 @@ main {
 }
 
 .imageDiv {
-    top: 500px;
-    left: 392px;
+    top: 250px;
+    left: 272px;
     position: relative;
 }
 
@@ -29,7 +29,7 @@ main {
     z-index: 2;
     top: 0px;
     left:392px;
-    position: absolute;
+    position: relative;
 }
 .artButton {
     z-index: 3;

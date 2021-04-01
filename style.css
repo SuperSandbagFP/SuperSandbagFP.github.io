@@ -12,11 +12,17 @@ main {
     background-color:#D58EFF;
 }
 
+.imageDiv {
+    top: 0px;
+    left: 0px;
+    position: relative;
+}
+
 .linkButton {
     z-index: 1;
     top: 0px;
     left:0px;
-    position: absolute;
+    position: relative;
 }
 .modButton {
     z-index: 2;

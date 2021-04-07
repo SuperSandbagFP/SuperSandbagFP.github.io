@@ -13,39 +13,9 @@ main {
     text-align:center;
 }
 
-.imageDiv {
-    top: 0px;
-    left: 0px;
-    position: relative;
-}
-
-.linkButton {
-    z-index: 1;
-    top: 212px;
-    left: 382px;
-    position: absolute;
-}
-.modButton {
-    z-index: 2;
-    top: 212px;
-    left: 774px;
-    position: absolute;
-}
-.artButton {
-    z-index: 3;
-    top: 424px;
-    left: 382px;
-    position: absolute;
-}
-.vrButton {
-    z-index: 4;
-    top: 424px;
-    left:774px;
-    position: absolute;
-}
-.meImage {
-    z-index: 5;
-    top: 284px;
-    left: 654px;
-    position: absolute;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
